@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Chayuth.pinp@gmail.com**
 
-- ⚡ Fun fact ? **They tried to bury me but they didn't know I was a seed. I'll always grow back stronger.**
+- ⚡ **They tried to bury me but they didn't know I was a seed. I'll always grow back stronger.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
