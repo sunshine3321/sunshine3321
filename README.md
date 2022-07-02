@@ -1,7 +1,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-<h1 align="center">Hi 👋, I'm Chayuth Pinphat</h1>
-<h3 align="center">Hellooooo! learning everything until be rich</h3>
-
+<h1 align="center">Hi 👋, I'm 
+<img src="https://readme-typing-svg.herokuapp.com?size=32&color=F7F7F7&vCenter=true&lines=Chayuth+Pinphat;Web+Developer;The+best+fullstack+programmer" align="center"></h1>
+<h3 align="center">Hellooooo,👋learning everything until be rich</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunshine3321&label=Profile%20views&color=0e75b6&style=flat" alt="sunshine3321" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" style="width: 100%" />
