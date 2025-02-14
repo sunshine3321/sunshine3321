@@ -1,17 +1,16 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-<h1 align="center">Hi 👋, I'm 
-<img src="https://readme-typing-svg.herokuapp.com?size=32&color=F7F7F7&vCenter=true&lines=Chayuth+Pinphat;Web+Developer;The+best+fullstack+programmer" align="center"></h1>
+<h1 align="center">Hi 👋, I'm Chayuth Pinhat </h1>
 <h3 align="center">Hellooooo,👋learning everything until be rich</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunshine3321&label=Profile%20views&color=0e75b6&style=flat" alt="sunshine3321" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" style="width: 100%" />
 
 
-- 🔭 I’m currently working on Celestica Thailand **iOperation**
+- 🔭 I’m currently working on LH BANK Thailand
 
 - 🌱 I’m currently learning **I learn everything as i can**
 
-- 💬 Ask me about **HTML CSS Javascript C# SQL**
+- 💬 Ask me about **HTML CSS Javascript C# SQLserver Bootstrap Tailwind NEXT.js React.js Typescript MongoDB**
 
 - 📫 How to reach me **Chayuth.pinp@gmail.com**
 
@@ -68,4 +67,5 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunshine3321" alt="sunshine3321" /></a> </p>
 
 ## SNAKE GAME
-![snake gif](https://github.com/sunshine3321/sunshine3321/blob/output/github-contribution-grid-snake.gif)
+## WAIT TO FIX BUG
+## ![snake gif](https://github.com/sunshine3321/sunshine3321/blob/output/github-contribution-grid-snake.gif)
